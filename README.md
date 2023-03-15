@@ -1,2 +1,12 @@
 # Noodle-Website
-Created a page about Noodles using Vue.js and Tailwind CSS
+To run the application: <br />
+1. Install the package dependencies
+```
+npm install
+```
+2. Install the package dependencies
+```
+npm run dev
+```
+
+
