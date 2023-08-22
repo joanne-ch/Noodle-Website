@@ -1,6 +1,6 @@
 # Noodle-Website
 To run the application: <br />
-1. Install the package dependencies
+1. Install all of the package dependencies
 ```
 npm install
 ```
